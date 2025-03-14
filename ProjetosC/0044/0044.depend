@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1741919162 source:c:\users\maxta\documents\desenvolvimento\projetosc\0044\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
