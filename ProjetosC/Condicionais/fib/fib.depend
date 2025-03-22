@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1742650344 source:c:\users\maxta\documents\github\cstudy\projetosc\condicionais\fib\main.c
+	<stdio.h>
+	<stdlib.h>
+
